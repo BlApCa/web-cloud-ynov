@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "95c3959d-4971-43fa-ab1a-3f31a831bf01"
+      }
+    },
+    "owner": "blapca"
   }
 }
